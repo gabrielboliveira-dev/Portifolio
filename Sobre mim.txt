@@ -1,5 +1,5 @@
-Sou graduado em licenciatura em Física, com ênfase em simulação computacional utilizando o ANSYS CFX e Pós-graduação em Biofísica.
-
-Atualmente sou coordenador de tecnologia na Secretaria de educação de Serra Talhada, onde pude desenvolver minhas habilidades como técnico de informática e gestão de equipe.
- 
-Procuro me desenvolver na área de programação de forma autodidata, adquirindo conhecimento em HTML, CSS, Javascript, Typescript, Node Js e React.
+ Meu nome é Gabriel Bezerra de Oliveira, sou formado em Física e pós-graduado em Biofísica e Engenharia de Software.
+ Com a cabeça cheia de ideias e o foco no futuro, estou cursando pós-graduação em Business Intelligence, Big Data e IA. Minha meta? Alcançar o nível de Staff Software Engineer, dominando o ecossistema Java com Spring Boot no back-end e React no front-end, desenvolvendo soluções robustas, escaláveis e com experiências excepcionais.
+ Minha jornada é uma fusão apaixonante de ensinar Física, coordenar o mundo da TI e construir software inovador. Sou movido pela magia de desvendar o universo, a precisão da lógica computacional e a alegria de criar algo novo.
+ Diretamente do coração do Sertão, de Serra Talhada! Sou um entusiasta da Astrofísica que adora compartilhar conhecimento, absorver novas ideias e usar a tecnologia como ponte para um futuro melhor.
+ Se você também é apaixonado(a) por tecnologia, ciência, educação ou está planejando os próximos passos na carreira, adoraria conectar! Me manda um "oi" em um dos meus links abaixo e vamos bater um papo inspirador!
